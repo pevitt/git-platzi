@@ -1,1 +1,3 @@
 Esto es un archivo de prueba del curso git
+probando los nuevos ajustes
+todo esta bien 
