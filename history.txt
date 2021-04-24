@@ -1,3 +1,4 @@
 Esto es un archivo de prueba del curso git
 probando los nuevos ajustes
 todo esta bien a lo que esta
+otro ajuste para seguir practicando
